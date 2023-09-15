@@ -59,5 +59,8 @@
 		flex-wrap: wrap;
 		
 	}
-	
+	.live-example-block{
+		flex-wrap: wrap;
+
+	}
 }
